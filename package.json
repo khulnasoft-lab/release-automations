@@ -36,7 +36,7 @@
     "url": "https://github.com/khulnasoft-lab/release-automations/issues"
   },
   "dependencies": {
-    "@octokit/app": "14.0.2",
+    "@octokit/app": "2.2.5",
     "@octokit/rest": "16.23.2",
     "arg": "4.1.0",
     "check-more-types": "2.24.0",
