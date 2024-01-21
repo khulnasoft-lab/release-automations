@@ -47,7 +47,7 @@
     "ava": "^6.0.0",
     "ava-ts": "0.25.2",
     "mocked-env": "^1.2.4",
-    "ts-node": "^8.1.0"
+    "ts-node": "^10.0.0"
   },
   "gitHead": "c7fb0ed04963a3ecd7fc95f2135e5f59e24da6df"
 }
